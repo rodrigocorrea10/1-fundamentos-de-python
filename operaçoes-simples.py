@@ -12,3 +12,11 @@ print(6**2)
 
 var = "3.8.5"
 print("Versão Python: " + var) 
+
+
+
+ 
+
+ 
+
+ 
