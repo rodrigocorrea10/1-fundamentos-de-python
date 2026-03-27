@@ -27,3 +27,18 @@ print(teste)
 
 # True = 1
 # False = 0
+
+# Se
+var = 2
+if var == 1:
+    print("O número da variável é um")
+elif var < 1:
+    print("O número da variável é menor que um")
+else:
+    print("O número da variável é maior que um")
+print("Fora do if")
+
+
+
+
+    
