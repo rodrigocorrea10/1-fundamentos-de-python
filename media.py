@@ -3,8 +3,8 @@
 # Solicite três números inteiros 
 
 item1 = int(input('escreva '))
-item2 = int(input())
-item3 = int(input())
+item2 = int(input('escreva '))
+item3 = int(input('escreva '))
 
 # Soma e Média 
 
