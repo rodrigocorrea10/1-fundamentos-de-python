@@ -11,10 +11,10 @@ frame1.place(x=20, y=30)
 # frame2.place(x=100, y=20)
 
 label1 = tk.Label(frame1, text='Digite seu email:', bg='lightgreen')
-label1.place(x=25, y=10)
+label1.place(x=25, y=8)
 
 label2 = tk.Label(frame1, text='Digite sua senha:', bg='lightgreen')
-label2.place(x=35, y=10)
+label2.place(x=25, y=30)
 
 janela_email = tk.Entry(janela, width=40)
 janela_email.place(x=280, y=40)

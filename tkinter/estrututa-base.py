@@ -1,6 +1,7 @@
 import tkinter as tk
 
 janela = tk.Tk()
+janela.title('Estrutura Base')
 janela.geometry('400x200')
 
 frame1 = tk.Frame(janela, bg='lightblue', width=100, height=200, bd=1)
