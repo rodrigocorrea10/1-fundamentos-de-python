@@ -130,3 +130,4 @@ while True:
 
     pygame.display.flip()  # Renderiza o quadro atualizado
     clock.tick(60)         # Mantém 60 FPS
+ 
